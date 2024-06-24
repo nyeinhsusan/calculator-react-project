@@ -1,0 +1,14 @@
+.output-container {
+    margin-top: 30px;
+    width: 210px;
+    height: 15px;
+    background-color: rgb(236, 234, 234);
+    border-radius: 2px;
+    text-align: end;
+    border: none;
+    text-align: end;
+    margin: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding:2px;
+}

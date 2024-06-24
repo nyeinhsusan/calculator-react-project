@@ -1,0 +1,37 @@
+.btn-container {
+    background-color: rgb(214, 214, 214);
+}
+
+btn-group{
+    display: flex;
+}
+.btn{
+    margin: 25px 0 0 15px;
+    width: 42px;
+    height: 42px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+    background-color: rgb(214, 214, 214);
+    box-shadow: 5px 5px 10px #b6acac,
+        -5px -5px 10px #faf4f4;
+    display: inline-block;
+}
+.math-col{
+    background-color: chocolate;
+   
+}
+
+
+.AC-col{
+    background-color: rgb(129, 58, 58);
+}
+
+.clear-btn{
+    font-size: 22px;
+    margin-top: auto;
+
+}
